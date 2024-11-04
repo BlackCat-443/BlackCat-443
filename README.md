@@ -1,8 +1,9 @@
 # Halo, Saya BlackCat-443 👋
 
 <p align="center">
-  <img src="https://your-image-url-here.com" alt="Profile Banner" width="100%">
+  <img src="https://avatars.githubusercontent.com/u/147058129?v=4" alt="Profile Banner" width="200">
 </p>
+
 
 ## 🚀 Tentang Saya
 Saya adalah seorang CyberSecurity Enthusiast yang bersemangat dari Indonesia. Saya memiliki passion dalam keamanan jaringan dan ethical hacking.
