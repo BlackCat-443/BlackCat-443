@@ -12,7 +12,6 @@ Saya adalah seorang CyberSecurity Enthusiast yang bersemangat dari Indonesia. Sa
 - 🌱 Saya sedang mempelajari teknik-teknik penetration testing terbaru
 - 👯 Saya ingin berkolaborasi dalam proyek open-source keamanan siber
 - 💬 Tanyakan saya tentang cybersecurity, network security, dan ethical hacking
-- 📫 Hubungi saya di: blackcat443@example.com
 - ⚡ Fun fact: Saya suka mengoleksi kucing hitam virtual!
 
 ## 🛠 Keterampilan
