@@ -47,7 +47,7 @@ Saya adalah seorang CyberSecurity Enthusiast yang bersemangat dari Indonesia. Sa
 ## 📈 Grafik Kontribusi
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=BlackCat-443&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?BlackCat-443=BlackCat-443&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ## 🔥 Streak
