@@ -35,8 +35,9 @@ Saya adalah seorang CyberSecurity Enthusiast yang bersemangat dari Indonesia. Sa
 ## 📊 GitHub Statistik
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?BlackCat-443=BlackCat-443&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackCat-443&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 ## 🏆 GitHub Trofi
 
@@ -47,8 +48,9 @@ Saya adalah seorang CyberSecurity Enthusiast yang bersemangat dari Indonesia. Sa
 ## 📈 Grafik Kontribusi
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?BlackCat-443=BlackCat-443&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=BlackCat-443&theme=react-dark" alt="Contribution Graph" />
 </p>
+
 
 ## 🔥 Streak
 
